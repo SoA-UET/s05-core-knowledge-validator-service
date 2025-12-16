@@ -29,7 +29,6 @@ Here are the peer services that the **Knowledge Service** service may interact w
 
 - **S02 Consultant AI Agent**: The AI agent that handles customer conversations and queries the knowledge base for relevant information
 - **S05 Knowledge Validator Service**: Validates and approves knowledge updates before they are stored in the knowledge database
-- **S08 Metrics Service**: Queries the knowledge base for analytics and collects metrics about knowledge queries and usage patterns
 - **S11 Partner Local Knowledge Service**: Receives metrics from partner services about knowledge queries
 
 ## A Note on API Transport Layers
